@@ -7,7 +7,7 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
 
-  /* Couleurs */
+  /* Couleurs */ 
   :root {
     --yellow: #FFD300;
     --black: #0D0D0D;
